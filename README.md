@@ -40,7 +40,7 @@ runs:
   main: 'dist/index.js'
 ```
 ## Setup Workflow
-Test your newly created action Add a main.yml file ".github/workflows/main.yml"
+Test your newly created action, add a main.yml file '.github/workflows/main.yml'  
 When an action is in a private repository, the action can only be used in workflows in the same repository. Public actions can be used by workflows in any repository.
 
 #### Private action workflow example:
