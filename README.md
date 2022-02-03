@@ -60,7 +60,7 @@ jobs:
         uses: ./ # Uses an action in the root directory
         id: hello
         with:
-          who-to-greet: 'Mona the Octocat'
+          who-to-greet: 'Rasmus'
 ```
 
 #### useful link
