@@ -64,5 +64,5 @@ jobs:
 ```
 
 #### useful link
-a website that converts Pipelines to Actions:
+a website that converts Azure Pipelines to Actions:
 https://pipelinestoactions.azurewebsites.net/
