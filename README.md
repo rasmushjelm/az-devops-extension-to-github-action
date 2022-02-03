@@ -21,7 +21,7 @@ core.debug()
 core.warning()  
 core.SetFailed()  
 
-### turn task.json into action.yml
+### Turn task.json into action.yml
 Create an action.yml file and migrate your manifest from task.json into the action.yml file.
 The task.json file will most likely have fields that are not available in the action.yml file. Ignore those when converting it into action.yml.  
 Action syntax can be found here: https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions  
